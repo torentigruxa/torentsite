@@ -1,0 +1,13 @@
+body {
+	background-color:rgb(100, 100, 100); 
+}
+
+a {
+	font-size:30px; 
+	color:green;
+	text-decoration:none;
+}
+
+div {
+	background-color:rgb(0, 170, 0);
+}
